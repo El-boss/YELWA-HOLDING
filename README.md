@@ -23,6 +23,7 @@ A data analysis and dashboard project built on **synthetic (simulated) data** fo
 ## the dashboard data's 
  ![ SALES DASHBOARD](yelwa_dashboard.png)
 
+
 ## usin Power BI disktop application.
 using power bi i  build the relationships above, and recreate the visuals. Samples data relation measures used :
 ```
